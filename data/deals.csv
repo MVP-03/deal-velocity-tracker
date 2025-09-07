@@ -1,0 +1,21 @@
+deal_id,company,stage,entered_date,exited_date,arr_usd
+D001,Apex Retail,prospecting,2025-07-01,2025-07-08,24000
+D002,Birch Digital,discovery,2025-07-05,2025-07-19,36000
+D003,Cedar Health,demo,2025-07-10,2025-07-18,52000
+D004,Dune Analytics,proposal,2025-07-15,2025-07-28,88000
+D005,Echo Logistics,negotiation,2025-07-20,2025-07-29,145000
+D006,Fern Capital,closed_won,2025-06-01,2025-06-22,210000
+D007,Gravel Systems,closed_lost,2025-06-15,2025-07-02,75000
+D008,Harbor Foods,discovery,2025-07-12,2025-07-25,41000
+D009,Indigo Cloud,demo,2025-07-08,2025-07-20,67000
+D010,Juniper Tech,proposal,2025-07-18,2025-07-31,93000
+D011,Kettle Media,negotiation,2025-07-22,2025-08-05,180000
+D012,Larch Finance,prospecting,2025-08-01,2025-08-06,19000
+D013,Maple HR,discovery,2025-08-03,2025-08-15,31000
+D014,Neon Robotics,demo,2025-08-05,2025-08-14,78000
+D015,Onyx Payments,proposal,2025-08-10,2025-08-22,112000
+D016,Prism Legal,negotiation,2025-08-15,2025-08-25,165000
+D017,Quartz Energy,closed_won,2025-07-28,2025-08-16,240000
+D018,Reef Analytics,closed_lost,2025-07-30,2025-08-12,55000
+D019,Stone AI,discovery,2025-08-18,2025-08-30,48000
+D020,Timber SaaS,demo,2025-08-20,2025-09-01,82000
